@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Buy groceries",
+      "completed": true
+    },
+    {
+      "id": "b2f0",
+      "text": "Clean room",
+      "completed": true
+    },
+    {
+      "id": "e6f0",
+      "text": "Do homework",
+      "completed": false
+    },
+    {
+      "id": "3d3c",
+      "text": "Clean kitchen",
+      "completed": false
+    },
+    {
+      "id": "6f65",
+      "text": "New Todovhjc",
+      "completed": true
+    }
+  ]
+}
